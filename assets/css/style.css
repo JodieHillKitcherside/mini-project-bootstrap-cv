@@ -90,7 +90,7 @@ header {
 }
 
 .logo {
-    background: url("../images/cv-square.jpeg");
+    background: url("assets/images/cv-square.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
